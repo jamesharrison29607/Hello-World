@@ -31,7 +31,7 @@ Build the Page Structure: <br/>
 <img src="https://github.com/jamesharrison29607/Hello-World/blob/main/codesyntaxhelloworld.png?raw=true"/>
 <br />
 <br />
-Confirm your selection:  <br/>
+View the Page in Browser:  <br/>
 <img src="https://github.com/jamesharrison29607/Hello-World/blob/main/browserpagehelloworld.png?raw=true"/>
 <br />
 <br />
