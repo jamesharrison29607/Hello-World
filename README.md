@@ -14,7 +14,7 @@ Project consists of creating a Hello World web project in Visual Studio Code
 
 <h2>Environments Used </h2>
 
-- <b>Windows 11</b> (21H2)
+- <b>Windows 11</b> 
 
 <h2>Program walk-through:</h2>
 
