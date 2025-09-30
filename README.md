@@ -27,7 +27,7 @@ Open New File:  <br/>
 <img src="https://github.com/jamesharrison29607/Hello-World/blob/main/createoropennewfile.png?raw=true"/>
 <br />
 <br />
-Enter the number of passes: <br/>
+Build the Page Structure: <br/>
 <img src="https://github.com/jamesharrison29607/Hello-World/blob/main/codesyntaxhelloworld.png?raw=true"/>
 <br />
 <br />
