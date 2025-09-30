@@ -20,7 +20,7 @@ Project consists of creating a Hello World web project in Visual Studio Code
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/jamesharrison29607/Hello-World/blob/main/createoropennewfolder.png?raw=true"/>
 <br />
 <br />
 Select the disk:  <br/>
