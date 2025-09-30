@@ -1,6 +1,6 @@
 <h1>Hello World!</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ 
 
 <h2>Description</h2>
 Project consists of creating a Hello World web project in Visual Studio Code
