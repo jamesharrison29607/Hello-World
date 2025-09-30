@@ -19,11 +19,11 @@ Project consists of creating a Hello World web project in Visual Studio Code
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Open New Folder: <br/>
 <img src="https://github.com/jamesharrison29607/Hello-World/blob/main/createoropennewfolder.png?raw=true"/>
 <br />
 <br />
-Select the disk:  <br/>
+Open New File:  <br/>
 <img src="https://github.com/jamesharrison29607/Hello-World/blob/main/createoropennewfile.png?raw=true"/>
 <br />
 <br />
